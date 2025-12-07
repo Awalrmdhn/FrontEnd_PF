@@ -1,0 +1,5 @@
+{
+  "name": "SimCheck Pro",
+  "description": "Advanced document similarity and plagiarism detection system using sentence-level analysis and TF-IDF vectors.",
+  "requestFramePermissions": []
+}
